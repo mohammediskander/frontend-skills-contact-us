@@ -1,0 +1,22 @@
+{
+  "name": "contact-us",
+  "version": "0.0.1",
+  "description": "frontend skills contact-us project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohammediskandar/frontend-skills-contact-us.git"
+  },
+  "author": "Mohammed Iskandar <mohammedeskandar@icloud.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/mohammediskandar/frontend-skills-contact-us/issues"
+  },
+  "homepage": "https://github.com/mohammediskandar/frontend-skills-contact-us#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.1"
+  }
+}
